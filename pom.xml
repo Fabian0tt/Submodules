@@ -4,6 +4,10 @@
   <groupId>ch.bbw</groupId>
   <artifactId>Submodules</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - Submodules</name>
-  <url>http://maven.apache.org</url>
+  <name>Multi Module Maven Project</name>
+  <packaging>pom</packaging>
+  <modules>
+    <module>app_main</module>
+    <module>greeter_lib</module>
+  </modules>
 </project>

@@ -1,0 +1,4 @@
+[submodule "greeter_lib"]
+	path = greeter_lib
+	url = https://github.com/Fabian0tt/greeter_lib.git
+
