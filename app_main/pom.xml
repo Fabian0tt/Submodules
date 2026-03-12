@@ -12,7 +12,7 @@
   <dependencies>
     <dependency>
       <groupId>ch.bbw</groupId>
-      <artifactId>greeter_lib</artifactId>
+      <artifactId>modul2-faot</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>

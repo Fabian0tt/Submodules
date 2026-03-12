@@ -1,4 +1,4 @@
-[submodule "greeter_lib"]
-	path = greeter_lib
-	url = https://github.com/Fabian0tt/greeter_lib.git
+[submodule "modul2-faot"]
+	path = modul2-faot
+	url = https://github.com/Fabian0tt/modul2-faot.git
 

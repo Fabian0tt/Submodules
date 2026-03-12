@@ -8,6 +8,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>app_main</module>
-    <module>greeter_lib</module>
+    <module>modul2-faot</module>
   </modules>
 </project>

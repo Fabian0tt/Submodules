@@ -1,6 +1,6 @@
 package ch.bbw.app_main;
 
-import ch.bbw.greeter.Greeter;
+import ch.bbw.modul2.Greeter;
 
 public class App {
     public static void main(String[] args) {
